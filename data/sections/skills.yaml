@@ -13,16 +13,16 @@ section:
 skills:
 - name: Docker
   icon: "/images/sections/skills/docker.svg"
-  summary: "Capable of deploying, managing application on Docker. Experienced in writing docker-compose controller files."
+  summary: "Capable of deploying, managing and customising applications using Docker. Experienced in writing docker-compose controller files."
   url: "https://docker.com/"
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with many of the major clouds such as GCP, AWS, DigitalOcean and Hetzner."
+  summary: "I have worked with many of the major clouds such as GCP, AWS, DigitalOcean and Hetzner."
 
 - name: Zabbix
   icon: "/images/sections/skills/zabbix.png"
-  summary: "Capable of setup, configure Zabbix metrics. Also familiar with Nagios, Netdata, Glances, Htop."
+  summary: "Capable of setup and configuration of Zabbix monitoring and metrics. Also familiar with Nagios, Netdata, Glances, Htop."
   url: "https://www.zabbix.com/"
 
 - name: Linux
@@ -31,7 +31,7 @@ skills:
 
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, using Github. Also, have experience in working with GitLab and Gitea."
+  summary: "Experienced with git-based development. Mostly, using Github. Also, have experience in running and working with GitLab and Gitea."
   url: "https://git-scm.com/"
 
 - name: Ansible

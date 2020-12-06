@@ -29,7 +29,7 @@ projects:
   tags: ["academic", "hobby", "cloud"]
 
 - name: Auto-Pi-Backup
-  logo: /images/sections/projects/raspberry.png
+  logo: /images/sections/projects/raspberry.jpg
   role: Developer
   timeline: "Feb 2019 - Present"
   repo: https://github.com/AdamGalt/Auto-Pi-Backup
