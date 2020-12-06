@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Interests
+  name: Achievements
   id: achievements
   enable: true
   weight: 6
@@ -10,12 +10,12 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+- title: Red Hat Certified Systems Administrator
+  image: /images/sections/achievements/cert.jpg
+  summary: A qualified systems administator with years of experience
+- title: WES Certified
+  image: /images/sections/achievements/wes.png
+  summary: Internationally recognised B.Sc. with Honours.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.

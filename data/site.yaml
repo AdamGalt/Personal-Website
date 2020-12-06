@@ -3,3 +3,7 @@ copyright: © 2020 Copyright Galt.me.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: CV and portfolio of Adam Galt
+
+customMenus:
+- name: "Send me Files"
+  url: https://cloud.galt.me/s/fxt5WfY5iNWoje7

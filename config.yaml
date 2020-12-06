@@ -1,0 +1,11 @@
+baseURL: https://galt.me
+languageCode: en-us
+title: "Adam Galt"
+theme: "toha"
+
+params: 
+  background: "images/site/background.jpg"
+  logo:
+    main: /images/site/favicon.png
+    inverted: /images/site/favicon.png
+    favicon: /images/site/favicon.png

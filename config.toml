@@ -1,6 +1,0 @@
-baseURL = "https://galt.me"
-languageCode = "en-us"
-title = "Adam Galt"
-theme = "toha"
-
-params = {background = "images/site/background.jpg"}
