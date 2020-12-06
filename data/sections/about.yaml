@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Systems Administrator
+# your company information
+company:
+  name: University of Oxford
+  url: "https://ox.ac.uk"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/AdamGalt.B.Sc.CV.pdf"
+
+# a summary about you
+summary: 'I am a passionate Systems Administrator with 5 years of working experience. I am also a Red Hat Certified Systems Administrator (RHCSA). I enjoy getting technical on a great variety of systems, software and subjects.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "adam@galt.me"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/adamgalt0"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/AdamGalt"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/14727286/adamgalt"
+
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange

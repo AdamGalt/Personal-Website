@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Git-Auto-commit
+  logo: /images/sections/projects/git.png
+  role: Developer
+  timeline: "Feb 2019 - Present"
+  repo: https://github.com/AdamGalt/Git-Auto-Commit # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Automatic code commits.
+  tags: ["academic", "hobby", "cloud"]
+
+- name: Auto-Pi-Backup
+  logo: /images/sections/projects/raspberry.png
+  role: Developer
+  timeline: "Feb 2019 - Present"
+  repo: https://github.com/AdamGalt/Auto-Pi-Backup
+  #url: ""
+  summary: Automated image backups of raspberrypi SD-Cards to NAS.
+  tags: ["academic", "hobby","raspberrypi"]
+
+- name: Ansible-Playbooks
+  logo: /images/sections/projects/ansible.png
+  role: Owner
+  timeline: "Aug 2020 - Present"
+  repo: https://github.com/AdamGalt/ansible-playbooks
+  summary: A collection of Ansible playbooks written to automate maintenance work in an Ubuntu environment.
+  tags: ["hobby","academic"]
+

@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of Oxford
+    url: "https://ox.ac.uk"
+    location: Oxford, United Kingdom.
+    # company overview
+    overview: Information Engineering, Dept. Engineering Science. Responsible for the 'robots' domain services that facilitate research into AI and robotics research.
+  positions:
+  - designation: Systems Administrator
+    start: May 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Systems Administration for large and diverse research infrastructure.
+    - Design, development, deployment and management of new systems.
+    - Building and repair of infrastructure servers and custom GPU machines.
+    - Automation of infrastructure using Ansible/BASH/Python
+
+- company:
+    name: RT Systems and Solutions
+    url: "https://rtsas.co.uk/"
+    location: Witney, United Kingdom.
+    overview: MSP with a national client base.
+  positions:
+  - designation: Second Line Support Technician
+    start: May 2017
+    end: May 2018
+    responsibilities:
+    - Investigations and resolutions of techinical problems escalated by the first line team.
+    - Responsible for looking after multiple client sites in South England.
+    - Monitoring and responding to backup and infrastruture needs.
+    - Technical process design and development.
+
+- company:
+    name: Windrush Medical Practice
+    url: "https://www.windrushmedicalpractice.co.uk/"
+    location: Witney, United Kingdom.
+    overview: A large medical practice serving the local community.
+  positions:
+  - designation: IT Administrator
+    start: Dec 2015
+    end: May 2017
+    responsibilities:
+    - Investigations and resolutions of techinical problems reported by staff.
+    - Responsible for looking after infrastructure and services.
+    - Monitoring and responding to backup and infrastruture needs.
+    - Rollout of new services and systems.
+    - Training of staff in technical matters.
+    - Medical coding in EMIS.

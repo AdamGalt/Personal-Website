@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Docker
+  icon: "/images/sections/skills/docker.svg"
+  summary: "Capable of deploying, managing application on Docker. Experienced in writing docker-compose controller files."
+  url: "https://docker.com/"
+
+- name: Cloud Computing
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Worked with many of the major clouds such as GCP, AWS, DigitalOcean and Hetzner."
+
+- name: Zabbix
+  icon: "/images/sections/skills/zabbix.png"
+  summary: "Capable of setup, configure Zabbix metrics. Also familiar with Nagios, Netdata, Glances, Htop."
+  url: "https://www.zabbix.com/"
+
+- name: Linux
+  icon: "/images/sections/skills/linux.png"
+  summary: "Used as my main operating system. Capable of writing bash/shell scripts and basic Python as well"
+
+- name: Git
+  icon: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, using Github. Also, have experience in working with GitLab and Gitea."
+  url: "https://git-scm.com/"
+
+- name: Ansible
+  icon: "/images/sections/skills/ansible.png"
+  summary: "Automating infrastructure maintenance and deployment, writing playbooks and configuring AWX Tower"
