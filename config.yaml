@@ -3,9 +3,18 @@ languageCode: en-us
 title: "Adam Galt"
 theme: "toha"
 
+enableEmoji: true
+
 params: 
   background: "images/site/background.jpg"
   logo:
     main: /images/site/favicon.png
     inverted: /images/site/favicon.png
     favicon: /images/site/favicon.png
+
+  customMenus:
+  - name: Send me files
+    url: https://cloud.galt.me/s/fxt5WfY5iNWoje7
+
+  - name: "Blog"
+    url: https://blog.galt.me

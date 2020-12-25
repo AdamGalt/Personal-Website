@@ -27,13 +27,25 @@ skills:
 
 - name: Linux
   icon: "/images/sections/skills/linux.png"
-  summary: "Used as my main operating system. Capable of writing bash/shell scripts and basic Python as well"
+  summary: "Ubuntu has been my main operating system for many years now. I also frequently work with Debian, Arch, Manjaro and RHEL systems professionally and privately."
 
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, using Github. Also, have experience in running and working with GitLab and Gitea."
+  summary: "Experienced with git-based development. Mostly, using Github and Gitlab. Also, have experience in running and working with Gitea."
   url: "https://git-scm.com/"
 
 - name: Ansible
   icon: "/images/sections/skills/ansible.png"
   summary: "Automating infrastructure maintenance and deployment, writing playbooks and configuring AWX Tower"
+
+- name: HTML/CSS
+  icon: "/images/sections/skills/html.png"
+  summary: "NGINX, Apache, Traefik, Caddy, Hugo. I know enough HTML/CSS to create and modify websites (like this one!) but I'm not a professional web developer."
+
+- name: Bash
+  icon: "/images/sections/skills/bash.jpg"
+  summary: "I can Bash script my way through quick and simple automations, but prefer to use Python or Ansible for the more complex automations"
+
+- name: Python
+  icon: "/images/sections/skills/python.png"
+  summary: "My Python is basic but improving rapidly. If it's not Bash or YAML, it's probably going to be Python."

@@ -12,13 +12,13 @@ section:
 achievements:
 - title: Red Hat Certified Systems Administrator
   image: /images/sections/achievements/cert.jpg
-  summary: A qualified systems administator with years of experience
+  summary: A certified and qualified systems administator with years of experience
 - title: WES Certified
   image: /images/sections/achievements/wes.png
   summary: Internationally recognised B.Sc. with Honours.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+- title: Graduated B.Sc. Hons.
+  image: /images/sections/achievements/graduation.jpg
+  summary: Received Bachelor of Science (B.Sc.) from Oxford Brookes University.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  summary: Completed Certificate Course.
