@@ -7,3 +7,6 @@ description: CV and portfolio of Adam Galt
 customMenus:
 - name: "Send me Files"
   url: https://cloud.galt.me/s/fxt5WfY5iNWoje7
+
+- name: "Check out my Blog"
+  url: https://blog.galt.me
