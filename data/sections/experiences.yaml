@@ -10,9 +10,29 @@ section:
 
 # Your experiences
 experiences:
+
 - company:
-    name: University of Oxford
-    url: "https://ox.ac.uk"
+    name: University of Oxford - MedSci - WIMM
+    url: "https://www.imm.ox.ac.uk"
+    location: Oxford, United Kingdom.
+    # company overview
+    overview: MRC Weatherall Institute of Molecular Medicine. Responsible for the 'imm' domain services that facilitate research into molecular medicine.
+  positions:
+  - designation: Systems Administrator
+    start: May 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Systems Administration for large and diverse research infrastructure.
+    - Design, development, deployment and management of new systems.
+    - Building and repair of infrastructure servers.
+    - Automation of infrastructure using Ansible/BASH/Python
+
+
+- company:
+    name: University of Oxford - EngSci - Robots
+    url: "https://www.robots.ox.ac.uk"
     location: Oxford, United Kingdom.
     # company overview
     overview: Information Engineering, Dept. Engineering Science. Responsible for the 'robots' domain services that facilitate research into AI and robotics.
@@ -20,7 +40,7 @@ experiences:
   - designation: Systems Administrator
     start: May 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: May 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Systems Administration for large and diverse research infrastructure.
