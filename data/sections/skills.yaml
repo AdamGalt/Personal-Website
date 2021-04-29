@@ -9,7 +9,7 @@ section:
   # hideTitle: true
 
 # Your Skills.
-# Give a summary of you each skill in the summary section.
+# Give a summary of each skill in the summary section.
 skills:
 - name: Docker
   icon: "/images/sections/skills/docker.svg"
