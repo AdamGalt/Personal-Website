@@ -28,10 +28,6 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "adam@galt.me"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/adamgalt0"
-
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/AdamGalt"
