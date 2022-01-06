@@ -8,7 +8,7 @@
   {{ $sections = (index site.Data site.Language.Lang).sections }}
 {{ end }}
 
-{{ $copyrightNotice := "© 2020 Copyright."}}
+{{ $copyrightNotice := "© 2022 Copyright."}}
 {{ if (index site.Data site.Language.Lang).site }}
   {{ $siteConfig := (index site.Data site.Language.Lang).site }}
   {{ if $siteConfig.copyright }}
