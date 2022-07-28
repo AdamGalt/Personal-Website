@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Systems Administrator
+designation: DevOps Engineer
 # your company information
 company:
-  name: University of Oxford
-  url: "https://ox.ac.uk"
+  name: PA Media Group
+  url: "https://pamediagroup.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/AdamGalt.B.Sc.CV.pdf"
 
 # a summary about you
-summary: 'I am a passionate Systems Administrator with 7 years of relevant experience. I am also a Red Hat Certified Systems Administrator (RHCSA). I enjoy getting technical on a great variety of systems, software and subjects.'
+summary: 'I am a passionate DevOps Engineer with 7 years of relevant experience. I am also a Red Hat Certified Systems Administrator (RHCSA). I enjoy getting technical on a great variety of systems, software and subjects.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

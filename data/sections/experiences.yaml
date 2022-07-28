@@ -12,6 +12,25 @@ section:
 experiences:
 
 - company:
+    name: PA Media Group - IT Operations - Stream DevOps Team
+    url: "https://pamediagroup.com"
+    location: Cloud / Fully Remote
+    # company overview
+    overview:  IT Operations, Stream DevOps Team. Working closely with the development pods, responsible for release engineering, cloud infrastructure provisioning and maintaining multiple production services within StreamAMG.
+  positions:
+  - designation: DevOps Engineer
+    start: May 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - DevOps Engineer within the Stream DevOps team.
+    - Change requests, incident investigations, design and development.
+    - Working closely with the development pods on deployment of code releases.
+    - Release engineering, infrastructure provisioning and management, system administration, security, and DevOps CI/CD advocacy 
+    - Terraform, MySQL, Jenkins, AWS
+
+- company:
     name: University of Oxford - MedSci - WIMM
     url: "https://www.imm.ox.ac.uk"
     location: Oxford, United Kingdom.

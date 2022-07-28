@@ -10,10 +10,9 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Systems Administrator
-  - I am a Devops
+  - I am a Devops Engineer
   - I love Linux
   - I work on open-source projects
   - I like to get technical
-  - I love servers
-  - I enjoy automating with Ansible
+  - I work in the cloud
+  - I enjoy automating with Terraform and Ansible
