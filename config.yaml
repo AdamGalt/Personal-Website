@@ -14,7 +14,8 @@ params:
 
   customMenus:
   - name: Send me files
-    url: https://cloud.galt.me/s/fxt5WfY5iNWoje7
+    url: https://share.galt.me/app/share/CTLDMbr6YDH-cxMBMTixrgm-25ouRVr3ARb-2d3Wu5kBU4a
 
   - name: "Blog"
     url: https://blog.galt.me
+    
